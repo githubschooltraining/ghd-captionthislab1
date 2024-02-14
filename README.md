@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: February 27-28, 2024
-- Facilitator: @Adeola
+- Facilitator: @addyapproved
 
 ## Class Resources
 
