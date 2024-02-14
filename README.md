@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: February 27-28, 2024
+- Facilitator: @Adeola
 
 ## Class Resources
 
