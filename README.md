@@ -3,6 +3,7 @@
 - Class Date: February 27-28, 2024
 - Facilitator: @addyapproved
 - 16 participants
+- Generate Scripts
   
 ## Class Resources
 
