@@ -3,7 +3,7 @@
 - Class Date: February 27-28, 2024
 - Facilitator: @addyapproved
 - 16 participants
-- 
+  
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
