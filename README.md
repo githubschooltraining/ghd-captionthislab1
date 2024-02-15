@@ -4,7 +4,7 @@
 - Facilitator: @addyapproved
 - 16 participants
 - Generate Scripts
-- Remove Repository
+- Remove Repository2
   
 ## Class Resources
 
