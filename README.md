@@ -4,7 +4,8 @@
 - Facilitator: @addyapproved
 - 16 participants
 - Generate Scripts
-- Remove Repository2
+- Remove Repository
+- Create new repo COLS
   
 ## Class Resources
 
