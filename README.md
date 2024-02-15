@@ -6,7 +6,7 @@
 - Generate Scripts
 - Remove Repository
 - Create new repo COLS
-  
+  Add a list of users that will attend the training.
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
